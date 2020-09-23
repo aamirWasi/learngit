@@ -1,4 +1,4 @@
-public class Test{
-	public Test()
+public class Test27{
+	public Test27()
 	{}
 }
