@@ -1,4 +1,4 @@
-public class Testlogindevelop{
-	public Testlogindevelop()
+public class Testlogin{
+	public Testlogin()
 	{}
 }
